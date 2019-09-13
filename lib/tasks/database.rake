@@ -31,10 +31,7 @@ namespace :database do
          end
        end
      end
-
     end
-
-
 
    #termina la tarea
   end
